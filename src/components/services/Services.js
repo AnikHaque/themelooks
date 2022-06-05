@@ -16,7 +16,7 @@ const Services = () => {
     <div class="col bg-light p-3 column-2">
     <div className='hello'>
       <i class="fa-solid fa-list-ul text-white service-i1"></i>
-      </div>
+      </div> 
       <h5>Reseller Hosting</h5>
       <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
     </div>
